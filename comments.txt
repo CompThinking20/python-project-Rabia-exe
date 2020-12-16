@@ -1,1 +1,4 @@
 This is, right now, doing the most basic version of what you want, which is great for this stage of the project. From here, in order to get full points for the remaining portion of the project, you probably need to add features and increase complexity. I would recommend doing so by adding some sense of user input and interaction. How might someone influence the outcome or request some particular kind of output?
+
+MILESTONE 2 COMMENTS
+Great work responding to my comments here and adjusting accordingly. I am getting an error with the emotion I put in being undefined. I believe this is happening because you're not converting your input to a string before working with it. Check back with the lecture where I talked about using input in order to see how I did this. But the str() function should get you where you need to go here. Other than that, maybe for the final submission make the direction entry do a bit more?
